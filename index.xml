@@ -1,9 +1,24 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>LoveIt</title>
-        <link>https://example.com/</link>
-        <description>About LoveIt Theme</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-            <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <title>Polygontubein</title>
+        <link>https://polygontubein.github.io/</link>
+        <description>關於 LoveIt 主題</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-TW</language><managingEditor>shihchun13@gmail.com (shihchun)</managingEditor>
+            <webMaster>shihchun13@gmail.com (shihchun)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 14 Sep 2020 00:00:00 &#43;0000</lastBuildDate>
+            <atom:link href="https://polygontubein.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Pytorch視覺化</title>
+    <link>https://polygontubein.github.io/2020-09-14/</link>
+    <pubDate>Mon, 14 Sep 2020 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://polygontubein.github.io/2020-09-14/</guid>
+    <description><![CDATA[Pytorch相對於tensorflow不一樣的地方是不是用tf.variable來分類圖，而是包在Tensor裏面，這就會讓tensorb]]></description>
+</item><item>
+    <title>ShortCode 整理</title>
+    <link>https://polygontubein.github.io/2020-06-28/</link>
+    <pubDate>Fri, 28 Jun 2019 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://polygontubein.github.io/2020-06-28/</guid>
+    <description><![CDATA[整理一下最近加入的shortcode，{{}}會錯誤所以都用{}代替，不然會變成這樣，今天換了Loveit發現主題內建了mermaid，所以]]></description>
+</item></channel>
 </rss>
